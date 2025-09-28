@@ -1,5 +1,7 @@
 # Movie Explorer
 
+![Demo](/src/assets/demo.gif)
+
 ## Installation
 
 ### Prérequis
